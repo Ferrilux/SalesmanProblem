@@ -1,0 +1,17 @@
+------------------------------------ PEA - projekt 1 ------------------------------------
+
+Wymagania: http://antoni.sterna.staff.iiar.pwr.edu.pl/pea/PEA_ZP_1.pdf
+
+Opis:
+Projekt ma na celu zbadanie złożoności czasowej problemu komiwojażera przy wykorzystaniu
+trzech algorytmów: przeglądu zupełnego, podziału i ograniczeń oraz programowania 
+dynamicznego.
+
+
+---------------------------------------- English ----------------------------------------
+
+This project aims to test time complexity of the salesman problem while using three
+algorithms: brute force, divide and conquer, dynamic programming.
+
+
+Author: Mikołaj Partykowski
